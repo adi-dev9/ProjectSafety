@@ -1,7 +1,7 @@
 # OSX
 #
 .DS_Store
-
+.BackEnd/connection/credentials
 # Xcode
 #
 build/
